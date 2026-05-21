@@ -132,10 +132,21 @@ Features demonstrated:
 ---
 
 ## Files Included
+---
 
-* `BikeShare_DW_Report.pdf` → Data warehouse and ETL implementation report
-* `BikeShare_BI_Report.pdf` → SSAS, OLAP, and Power BI implementation report
-* `Images/` → Star schema, ETL pipeline, OLAP, and dashboard screenshots
+## Sample Project Visualizations
+
+### Star Schema Design
+![Star Schema](images/star_schema.png)
+
+### SSIS ETL Pipeline
+![SSIS Pipeline](images/ssis_pipeline.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### OLAP Drill-Down Analysis
+![OLAP](images/olap_drilldown.png)
 
 ---
 
